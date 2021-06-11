@@ -1,4 +1,4 @@
-package com.qa.springcars;
+package com.qa.springmovies;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

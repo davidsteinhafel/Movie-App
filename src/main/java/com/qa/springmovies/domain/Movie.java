@@ -15,7 +15,7 @@ public class Movie {
 	private String genre;
 	
 	public Movie() {
-		
+		//CONST
 	}
 
 	public Movie(Long id, String title, String director, Long year, String genre) {
@@ -25,6 +25,10 @@ public class Movie {
 		this.director = director;
 		this.year = year;
 		this.genre = genre;
+	}
+
+	public Movie(String string, String string2, int i, String string3) {
+		// TODO Auto-generated constructor stub
 	}
 
 	public Long getId() {
