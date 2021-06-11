@@ -1,4 +1,4 @@
-package com.qa.springcars;
+package com.qa.springmovies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
